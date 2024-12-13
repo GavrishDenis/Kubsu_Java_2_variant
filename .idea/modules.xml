@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Work1/1_independentWork/1_independentWork.iml" filepath="$PROJECT_DIR$/Work1/1_independentWork/1_independentWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Work1/1_tasksByVariant/1_tasksByVariant.iml" filepath="$PROJECT_DIR$/Work1/1_tasksByVariant/1_tasksByVariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Work2/2_independentWork/2_independentWork.iml" filepath="$PROJECT_DIR$/Work2/2_independentWork/2_independentWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Work2/2_tasksByVariant/2_tasksByVariant.iml" filepath="$PROJECT_DIR$/Work2/2_tasksByVariant/2_tasksByVariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Work4/4_taskByVariant/4_taskByVariant.iml" filepath="$PROJECT_DIR$/Work4/4_taskByVariant/4_taskByVariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kubsu_GavrishDenis_Variant_2.iml" filepath="$PROJECT_DIR$/Kubsu_GavrishDenis_Variant_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Work1/Work1.iml" filepath="$PROJECT_DIR$/Work1/Work1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Work2/Work2.iml" filepath="$PROJECT_DIR$/Work2/Work2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Work3/Work3.iml" filepath="$PROJECT_DIR$/Work3/Work3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Work4/Work4.iml" filepath="$PROJECT_DIR$/Work4/Work4.iml" />
+    </modules>
+  </component>
+</project>
